@@ -2,7 +2,8 @@
   "name": "FlutterFire - MOVED",
   "platforms": [
     "Android",
-    "iOS"
+    "iOS",
+    "Web",
   ],
   "content": "FlutterFire.md",
   "related": [
